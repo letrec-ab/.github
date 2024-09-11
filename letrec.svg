@@ -1,0 +1,23 @@
+<svg viewBox="0 0 480 80" xmlns="http://www.w3.org/2000/svg">
+<title>LETREC</title>
+<g stroke="#23d5ab" fill="none" stroke-width="10">
+<polyline><animate attributeName="points" begin="0.7s" dur="0.8s" from="25,65 25,65" to="25,15 25,65" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.7s" dur="0.8s" from="20,60 20,60" to="20,60 65,60" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="1.1s" dur="0.8s" from="100,20 100,20" to="100,20 140,20" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.9s" dur="0.6s" from="100,40 100,40" to="100,40 130,40" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.7s" dur="0.8s" from="100,60 100,60" to="100,60 140,60" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="1.5s" dur="0.8s" from="175,20 175,20" to="175,20 225,20" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.7s" dur="0.8s" from="200,65 200,65" to="200,30 200,65" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.7s" dur="0.8s" from="265,65 265,65" to="265,65 265,30" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.7s" dur="0.8s" from="255,20 255,20" to="255,20 305,20" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="1.5s" dur="0.8s" from="300,20 300,20" to="300,20 300,65" fill="remove" /></polyline>
+<polyline><animate attributeName="points" begin="2.3s" dur="0.4s" from="300,20 300,40 300,40 300,65" to="300,20 300,40 290,40 305,65" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="1.1s" dur="0.8s" from="340,20 340,20" to="340,20 380,20" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.9s" dur="0.6s" from="340,40 340,40" to="340,40 370,40" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.7s" dur="0.8s" from="340,60 340,60" to="340,60 380,60" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.7s" dur="0.8s" from="415,60 420,60" to="460,60 415,60" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.7s" dur="0.8s" from="420,65 420,65" to="420,65 420,15" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="1.5s" dur="0.8s" from="415,20 415,20" to="415,20 460,20" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.5s" dur="1.0s" from="240,75 240,75" to="10,75 470,75" fill="freeze" /></polyline>
+</g>
+</svg>
