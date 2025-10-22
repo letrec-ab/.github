@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 480 90">
+<title>LETREC</title>
+<g>
+<polyline><animate attributeName="points" begin="0.2s" dur="0.8s" from="25,70 25,70" to="25,20 25,70" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.2s" dur="0.8s" from="20,65 20,65" to="20,65 65,65" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.6s" dur="0.8s" from="100,25 100,25" to="100,25 140,25" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.4s" dur="0.6s" from="100,45 100,45" to="100,45 130,45" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.2s" dur="0.8s" from="100,65 100,65" to="100,65 140,65" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="1.0s" dur="0.8s" from="175,25 175,25" to="175,25 225,25" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.2s" dur="0.8s" from="200,70 200,70" to="200,35 200,70" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.2s" dur="0.8s" from="265,70 265,70" to="265,70 265,35" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.2s" dur="0.8s" from="255,25 255,25" to="255,25 305,25" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="1.0s" dur="0.8s" from="300,25 300,25" to="300,25 300,70" fill="remove" /></polyline>
+<polyline><animate attributeName="points" begin="1.8s" dur="0.8s" from="300,25 300,45 300,45 300,70" to="300,25 300,45 290,45 305,70" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.6s" dur="0.8s" from="340,25 340,25" to="340,25 380,25" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.4s" dur="0.6s" from="340,45 340,45" to="340,45 370,45" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.2s" dur="0.8s" from="340,65 340,65" to="340,65 380,65" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.2s" dur="0.8s" from="415,65 420,65" to="460,65 415,65" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.2s" dur="0.8s" from="420,70 420,70" to="420,70 420,20" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="1.0s" dur="0.8s" from="415,25 415,25" to="415,25 460,25" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="0.5s" dur="1.0s" from="240,5 240,5" to="0,5 480,5" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="1.5s" dur="0.5s" from="5,0 5,0" to="5,0 5,90" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="1.5s" dur="0.5s" from="475,5 475,5" to="475,5 475,85" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="2.0s" dur="1.0s" from="480,85 480,85" to="480,85 240,85" fill="freeze" /></polyline>
+<polyline><animate attributeName="points" begin="2.0s" dur="1.0s" from="0,85 0,85" to="0,85 240,85" fill="freeze" /></polyline>
+</g>
+</svg>
